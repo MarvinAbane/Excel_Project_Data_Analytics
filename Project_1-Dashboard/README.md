@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![Alt text](/Users/marvinabane/Downloads/DATA ANALYST PATH/EXCEL/exel files /Excel_Project_Data-Analytics/Excel_Project_Data_Analytics/Images/1_Salary_Dashboard.png)
+![Alt text]([/Users/marvinabane/Downloads/DATA ANALYST PATH/EXCEL/exel files /Excel_Project_Data-Analytics/Excel_Project_Data_Analytics/Images/1_Salary_Dashboard.png](https://github.com/MarvinAbane/Excel_Project_Data_Analytics/blob/main/Images/1_Salary_Dashboard.png#:~:text=Images-,1_Salary_Dashboard,-.png))
 
 
 I edited this on Git Hub 
