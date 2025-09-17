@@ -1,4 +1,5 @@
-# Excel_Project_Data_Analytics
+# Excel Salary Dashboard
+
 My project demonstrating my Excel Skills
 
 I edited this on Git Hub 
